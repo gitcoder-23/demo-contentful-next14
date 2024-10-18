@@ -1,0 +1,5 @@
+// Graphql
+https://graphql.contentful.com/content/v1/spaces/<your_space_id>/explore?access_token=<your_access_token>
+
+
+https://graphql.contentful.com/content/v1/spaces/re181t9ltost/explore?access_token=_oXEAIKIG9D-fUh2RMx_ZqRs3wkvHntNPvTixEOHmgI
